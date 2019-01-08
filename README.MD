@@ -9,7 +9,7 @@ cd ~
 git clone https://github.com/yihuaiyuan/openresty_php.git
 cd openresty_php/
 chmod u+x openresty.sh 
-./install.sh 
+./openresty.sh 
 ```
 ```shell
 #openresty + php
